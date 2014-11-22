@@ -2,6 +2,7 @@
 
 ### Guitar Anatomy
 
+```ASCII
                                                   HeadStock
                                                  _____|______
                                                  \          /
@@ -59,12 +60,12 @@
                  |                           ",             -------Top
                  |_______                      ',._________..;;
                                                       0------------StrapPeg
-
+```
 ---
 
 ### Open String Tuning and so forth
 
-
+```ASCII
          oo  oo  oo
       /\,||,,||,,||__==_
      /    \   '   \''''''e||--- f|---f#|--- g|---g#|--- a|---a#|--- b|--- c|---c#|--- d|---d#|--- e||--
@@ -75,11 +76,12 @@
      \    /   /   /''''' E||--- F|---F#|--- G|---G#|--- A|---A#|--- B|--- C|---C#|--- D|---D#|--- E||--
       \/'||''||''||  ==
          oo  oo  oo Frets=>0     1     2     3     4     5     6     7     8     9     10    11    12
-
+```
 ---
 
 ### Popular notations for plucking fingers
 
+```ASCII
                     M
                 I  /"\  A
                /"\|\./|/"\        p = pulgar (thumb)
@@ -104,5 +106,6 @@
     /\---Pick
    (__)
 
+```
 ---
 

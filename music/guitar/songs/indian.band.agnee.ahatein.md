@@ -1,9 +1,11 @@
-simpler [chord prominent Tutorial on Aahatein](https://www.youtube.com/watch?v=tk4KN8XkzZQ)
-
-*not Sure if below is tablature for "Aahatein" but a great piece nonetheless*
-
 ### Song: Aahatein
 #### Band: Agnee (Indian)
+
+* intro part can be picked from following and more hints
+simpler [chord prominent Tutorial on Aahatein](https://www.youtube.com/watch?v=tk4KN8XkzZQ)
+
+
+* following is good lead example, misses intro
 
 > Notation Usedd: Tablature [source: rockonguitar247](http://rockonguitar247.blogspot.in/2013/11/aahtein-splitsvilla-4-theme-guitar-tabs.html#more)
 

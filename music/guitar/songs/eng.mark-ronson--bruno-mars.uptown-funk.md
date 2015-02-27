@@ -1,8 +1,9 @@
 ### Song: Uptown Funk
 #### Artists: Mark Ronson feat. Bruno Mars
 
-[tutorial source](https://www.youtube.com/watch?v=tfzX4zK69hM)
+* [tutorial source](https://www.youtube.com/watch?v=tfzX4zK69hM)
 
+```
 [2 times]
  | [2 times]
  | (1,2).13 Down,Up
@@ -30,10 +31,11 @@
 DMinor7 chord with: I@2.6 M@4.7 A@3.8 X@1.9
 G7 chord with: I@4.5 M@1.6 A@3.7 X@1.7
 
+```
 
+* [tutorial.2](https://www.youtube.com/watch?v=yBOpcJcha3U)
 
->>> check what tune is below
-
+```
 4.5
 4.0 4.5 4.3
 4.0 4.5 4.3
@@ -65,3 +67,4 @@ Beats: 12& 34& 12&a
 5.3 x7  (on 7th)-> HammerOn 8
 
 ---
+```

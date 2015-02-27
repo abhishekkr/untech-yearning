@@ -1,3 +1,7 @@
+simpler [chord prominent Tutorial on Aahatein](https://www.youtube.com/watch?v=tk4KN8XkzZQ)
+
+*not Sure if below is tablature for "Aahatein" but a great piece nonetheless*
+
 ### Song: Aahatein
 #### Band: Agnee (Indian)
 

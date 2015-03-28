@@ -1,6 +1,9 @@
 ### Song: Blackbird
 #### Artists: The Beatles
 
+* [interesting plucking tutorial for it by Youtube Channel: The Beatles Vocal Harmony](https://www.youtube.com/watch?v=qD8f9w_NYJk)
+
+
 * [tutorial source](http://tabs.ultimate-guitar.com/b/beatles/blackbird_tab.htm)
 
 ```

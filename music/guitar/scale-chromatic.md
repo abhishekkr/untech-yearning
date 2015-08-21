@@ -1,5 +1,46 @@
 # Chromatic Scale
 
+Chromatic Scale is scale of 12 semitones from a note-to-its-next octave.
+We could actually play a chromatic scale by sliding finger up one string, playing each fret.
+
+* single string, say 6th string E2
+
+```ASCII
+
+E F F#/Gb G G#/Ab A A#/Bb B C C#/Db D   D#/Eb   E
+0 1 2     3 4     5 6     7 8 9     10  11     12
+
+```
+
+* one of the layout
+
+```ASCII
+
+    E=A=D=G=B=e 
+    | | | | | i 
+ 01 ----------- 
+    | | | i i i 
+ 02 ----------- 
+    | | i m m m 
+ 03 ----------- 
+    | i m a a a 
+ 04 ----------- 
+    i m a x x x 
+ 05 ----------- 
+    m a x | | | 
+ 06 ----------- 
+    a x | | | | 
+ 07 ----------- 
+    x | | | | | 
+ 08 ----------- 
+    | | | | | | 
+ 09 ----------- 
+    | | | | | | 
+
+```
+
+
+* top fretboard usually targetted as fingering exercise, standard
 
 ```ASCII
     x x x x x o      x x x x x ^      x x x x x ^      x x x x x ^      x x x x x ^
@@ -16,9 +57,7 @@
  05 -----------   05 -----------   05 -----------   05 -----------   05 -----------
     | | | | | |      | | | | | |      | | | | | |      | | | | | |      | | | | | |
               e                f                f#               g                g#
-```
 
-```ASCII
     x x x x o x      x x x x ^ x      x x x x ^ x      x x x x ^ x      x x x x ^ x
     E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e
     | | | | | |      | | | | i |      | | | | | |      | | | | | |      | | | | | |
@@ -33,9 +72,7 @@
  05 -----------   05 -----------   05 -----------   05 -----------   05 -----------
     | | | | | |      | | | | | |      | | | | | |      | | | | | |      | | | | | |
             B                C                C#               D                D#
-```
 
-```ASCII
     x x x o x x      x x x ^ x x      x x x ^ x x      x x x ^ x x
     E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e
     | | | | | |      | | | i | |      | | | | | |      | | | | | |
@@ -50,9 +87,7 @@
  05 -----------   05 -----------   05 -----------   05 -----------
     | | | | | |      | | | | | |      | | | | | |      | | | | | |
           G                G#               A                A#
-```
 
-```ASCII
     x x o x x x      x x ^ x x x      x x ^ x x x      x x ^ x x x      x x ^ x x x
     E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e
     | | | | | |      | | i | | |      | | | | | |      | | | | | |      | | | | | |
@@ -67,9 +102,7 @@
  05 -----------   05 -----------   05 -----------   05 -----------   05 -----------
     | | | | | |      | | | | | |      | | | | | |      | | | | | |      | | | | | |
         D                D#               E                F                F#
-```
 
-```ASCII
     x o x x x x      x ^ x x x x      x ^ x x x x      x ^ x x x x      x ^ x x x x
     E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e
     | | | | | |      | i | | | |      | | | | | |      | | | | | |      | | | | | |
@@ -84,9 +117,7 @@
  05 -----------   05 -----------   05 -----------   05 -----------   05 -----------
     | | | | | |      | | | | | |      | | | | | |      | | | | | |      | | | | | |
       A                A#               B                C                C#
-```
 
-```ASCII
     o x x x x x      ^ x x x x x      ^ x x x x x      ^ x x x x x      ^ x x x x x
     E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e      E=A=D=G=B=e
     | | | | | |      i | | | | |      | | | | | |      | | | | | |      | | | | | |

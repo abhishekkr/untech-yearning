@@ -12,4 +12,17 @@
 (up)4.7 (up)5.7 (down)5.7
 
 ---
+
+### BBKing Style
+
+#### BL-534
+Pattern5 of minor Pentatonic Scale
+uses: 1.15 2.17 2.15 3.17 3.14 4.16(extra)
+
+1.15(vibrato)fierce
+2.17 2.15 3.17
+3.14(vibrato)fierce
+4.16
+
+---
 ---

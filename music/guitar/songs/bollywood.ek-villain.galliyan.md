@@ -24,15 +24,15 @@ G|-9-------------------9-7-9----------------------------------|
 
 (mujhko bhaye galiyan teri galiyan)
 e|------------------------------------------------------------|
-B|------7-7---7---7---10/8b-----------------------------------| x1
-G|-7-9-9----9---9---9-----------------------------------------|
+B|------7-7---7-7----10/8-8b----------------------------------| x1
+G|-7-9-9----9-----9-------------------------------------------|
 
 (teri galiyan galiyan teri galiyan)
 e|-------7----8-7---------------------------------------------|
 B|---7-8---10-----10-8-7-------7------------------------------| x1
 G|-9---------------------9-7-9--------------------------------|
 
-(mujhko bhaye galiyan teri galiyan)
+(yuhin tadpaye galiyan teri galiyan)
 e|------------------------------------------------------------|
 B|------7-7b---7---7---10/8b----------------------------------| x1
 G|-7-9-9-----9---9---9----------------------------------------|
@@ -105,27 +105,27 @@ D|-6---------------------------------------------------|
 
 Repeat above two lines once again.
 
-Second Para.
+Second Para. (3rd Para)
 
-Tu meri neendo mein sota hai
+Tu meri neendo mein sota hain 	(3rd para: kaisa hai rishta tera mera)
 G|-10-10-10-66-5555-------------------------------|
 D|-----------------------------------------------------|
 
-Tu mere ashkon mein rota hai
+Tu mere ashkon mein rota hai 	(3rd para: yeh chehra fir bhi kitna gehra)
 G|-666-10-10-8888----------------------------------|
 D|-----------------------------------------------------|
 
-Sargoshi c hai khyalon mein
+Sargoshi c hai khyalon mein 	(3rd para: yeh lamhe lamhe yeh resham se)
 G|-10-10-10-10-66-6-6/8-8/6-6/5-----------------|
 D|-----------------------------------------------------|
 
-Tu na ho phir bhi tu hota hai
+Tu na ho phir bhi tu hota hai 	(3rd para: kho jaye, kho na jaye hamse)
 G|-666-10-10-10--8888-----------------------------|
 D|-----------------------------------------------------|
 
 Please listen the song carefully or watch THE VIDEO LESSON to be able to understand and play below lines.
 
-Hai silaa
+Hai silaa 	(3rd para: kafila)
 G|-6-8-8/10-8/6-6/8/6/5---------------------------|
 D|-----------------------------------------------------|
 
@@ -134,15 +134,15 @@ You can also play above line with hammers and pull offs like given below:
 G|-6-8-8/10-8/6-6h8p6/5---------------------------|
 D|-----------------------------------------------------|
 
-Tu mere eee
+Tu mere eee 	(3rd para: waqt kaa)
 G|-6-8-8/10/13/11/10--8-8/10---------------------|
 D|-----------------------------------------------------|
 
-Dard ka
+Dard ka 	(3rd para: rok le)
 G|-6-8-8/10-8/6-6/8/6/5---------------------------|
 D|-----------------------------------------------------|
 
-Mere dil ki duaayein hain
+Mere dil ki duaayein hain 	(3rd para: ab dil se juda na ho)
 G|-66-55-55-5/3-3/5--------------------------------|
 D|-----------------------------------------------------|
 

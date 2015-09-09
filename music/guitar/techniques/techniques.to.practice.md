@@ -22,31 +22,15 @@
 
 ---
 
-##### Vibrato
+##### Bending
 
-> Hand (Vertical/Blues/Rock) Vibrato
->  * Thumb over top
->  * a on main-fret-string, i and m on above two frets of it OR just m on main-fret-string with i above OR just i on main-fret-string
->  * Play, Pull Down (or Push up based on string and shape), Relax, Play...(loop) <can try the slide up down in wider range for different effect>
->  * try the slow slides and fast for different effects as well
+> 1,2,3 string bend up; 4,5,6 bend down
+ 
+> Try Bending with Releasing followed by Pull-off
+> Two-Fret Bend on a Pentatonic
+> One-Fret Bend, quite similar to vibrato
 
-> Classical Vibrato
->  * just main finger would be on fretboard shaking the string with rolling finger high-low
->  * all other fingers and thumb would be up in air moving to give the main finger motion
->  * try slow and fast motion, also comobo of fast->slow and slow->fast motion
-
-> Circular (Whole Arm) Vibrato
->  * just main finger would be on fretboard rolling the string up-around
->  * all other fingers and thumb would be up in air moving to give the main finger wilder motion to try keep it going
->  * the picking hand might rest on other string around muting them off
-
-* try with all fingers
-* _Practice moving from a Bend direct to Vibrato_
-* _Observe BBKing, Steve Vai, Clapton and other's style and try experiment their licks_
-
-> *specials* BBKing's Wrist Vibrato
->  * almost Circular Vibrato except for not much rolling string up and down
->  * also really fast wrist shake
+* Overbend (Artist example: Jimmy Page, Van Halen, Dave Gilmour)
 
 ---
 
@@ -75,6 +59,35 @@
 > then 3 finger combo
 >  * HammerOns by all fingers (in i->m->a, m->a->x, i->a->x, i->m->x co-ordination)
 >  * PullOffs by all fingers (in a->m->i, x->a->m, x->a->i, x->m->i co-ordination)
+
+---
+
+##### Analyze Playing styles of
+
+Angus Young
+B.B. King
+Buddy Guy
+Carlos Santana
+Chuchk Berry
+David Gilmour
+Derek Trucks
+Duane Allman
+Eddie Van Halen
+Eric Clapton
+Freddy King
+Jimmy Hendrix
+Jimmy Page
+Joe Satriani
+John Petrucci
+Kirk hammett
+Kurt Cobain
+Mark Knopfler
+Milos Karadaglic
+Preston Reed
+Ritchie Blackmore
+Robert Johnson
+Steve Vai
+Stevie Ray Vaughan
 
 ---
 

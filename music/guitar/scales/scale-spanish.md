@@ -1,5 +1,7 @@
 # Spanish Scale
 
+* [source](www.spanishguitarlessons.org)
+
 ```ASCII
    E=A=D=G=B=e     E=A=D=G=B=e     E=A=D=G=B=e
  0 o----------   0 +----------   0 +----------
@@ -98,7 +100,32 @@
 
 ```
 
-once practiced, try melodies like mixing it with chords
+once practiced, try melodies like mixing it with chords... like
+
+```
+4.3 4.2 4.0
+5.3 5.2 5.0
+Aminor -one-slow-strum-a-pause-after-6th
+
+5.3 5.2 5.0
+6.4 5.1 5.0
+EMajor -one-slow-strum-a-pause-after-6th
+
+3.1 5.2 4.2
+Aminor -one-slow-strum-a-pause-after-6th
+
+2.0 2.1 2.3
+1.0
+G7 -one-slow-strum-a-pause-after-6th
+
+2.3 2.1 2.0
+1.0
+F -one-slow-strum-a-pause-after-6th
+
+3.1 5.2 4.2
+EMajor -one-slow-strum-a-pause-after-6th
+```
 
 ---
 ---
+

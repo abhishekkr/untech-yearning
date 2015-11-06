@@ -1,7 +1,7 @@
 ## Guitar
 
 * basic01.md
-> anatomy of guitar; tune layout on fretboard; notations for plucking hand
+> anatomy of guitar; note layout on fretboard; notations for plucking hand
 
 * chords01.md
 > A.Major, A.Minor, B.Major, B.Minor, C.Major, C.Minor, D.Major, D.Minor, E.Major, E.Minor, F.Major, F.Minor, G.Major, G.Minor

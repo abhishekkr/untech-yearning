@@ -7,6 +7,7 @@
 * Bending
 * Stretching
 * Tremolo
+* Snap Picking
 
 ---
 
@@ -45,6 +46,15 @@
 * practice translation between 8notes to 16notes for both patterns
 * vary from 60bpm to 120bpm
 * once perfected, practice all with chords
+
+---
+
+##### Snap Picking
+
+* Holding pick around 45degree to strings (not flatpicking).
+* Just twitching thumb and index finger up andd down.
+* Trying to do this quickly on fewer strings based licks to pick up speed.
+* No wrist or hand movement involved.
 
 ---
 

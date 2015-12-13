@@ -1,7 +1,7 @@
 ### Song: Love Theme
 #### Movie: Aashiqui 2 (Hindi)
 
-> Notation Usedd: <String>.<Fret>
+> Notation Used: <String>.<Fret>
 
 ```ASCII
  1.1, 1.3, 1.4

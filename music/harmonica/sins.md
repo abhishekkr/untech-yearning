@@ -9,7 +9,7 @@
 > doesn't matter what
 
 * bending
-> can yank down, whale at hole 1,2,4,5,6 'cuz you get blues pitch
+> can yank down, wail at hole 1,2,4,5,6 'cuz you get blues pitch
 > not hole 3, this need to be subtle
 
 ---

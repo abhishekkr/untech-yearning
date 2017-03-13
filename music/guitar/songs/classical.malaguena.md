@@ -63,3 +63,10 @@ Repeat Phrase.1, then Phrase.2
 Finish with grand pick of D.2(E)
 
 ```
+
+---
+
+* [tutorial.part1](https://www.youtube.com/watch?v=g4CSr1MkLWE)
+* [tutorial.part2](https://www.youtube.com/watch?v=PYyrGxxJ7m0)
+
+---

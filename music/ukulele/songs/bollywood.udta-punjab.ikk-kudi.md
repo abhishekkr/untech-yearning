@@ -2,6 +2,8 @@
 ### Song: Ikk Kudi
 #### Movie: Udta Punjab (Hindi)
 
+> my try
+
 > Notation Used: tablature
 
 with improv

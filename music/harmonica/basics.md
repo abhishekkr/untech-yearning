@@ -17,3 +17,25 @@
 
 ---
 
+### How To Read Tab
+
+```
+ -      draw notes
+ +      blow notes
+
+ '      bend 1 step       / half-tone bend
+ ''     bend 2 steps      / whole-tone bend
+ '''    bend 3 steps...
+
+ *      overblow
+ *B     overblow bend
+
+<>      slide back n forth
+
+```
+
+
+---
+
+
+

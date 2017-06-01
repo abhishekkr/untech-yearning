@@ -2,10 +2,18 @@
 ### Song: Ain't no Sunshine
 #### Artists: Bill Withers
 
+* Chords with real fingerpicking pattern [source](https://www.youtube.com/watch?v=YB9__UfOas4)
 
-* Chords with Fingerpick
+```
 
-[source](https://www.youtube.com/watch?v=Wsf54WbFLr0)
+to be noted
+
+```
+
+
+---
+
+* Chords in FingerStyle [source](https://www.youtube.com/watch?v=Wsf54WbFLr0)
 
 ```
                                cheating

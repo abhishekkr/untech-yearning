@@ -16,19 +16,19 @@
 * Aaroh
 
 ```
- Ni Re(b) Ga Ma(#) Dha Ni Dha Sa
+ Ni Re(b)~   Ga Ma(#) Dha~    Ni Dha  Sa~
 ```
 
 * Avaroh
 
 ```
- Sa Ni Dha Ma(#) Ga Re(b) Sa
+ Sa Ni Dha~   Ma(#) Ga  Re(b) Sa~
 ```
 
 * Pakad
 
 ```
- Dha Ma(#) Ga Re(b) Ga Ma(#) Re(b) Sa
+ Dha Ma(#) Ga Re(b)~    Ga Ma(#)  Ga Re(b) Sa~
 ```
 
 ---
@@ -40,7 +40,7 @@
 ```
  Ni Re(b) Ga Ma(#) Ni Dha Dha Ma(#) Ga Re(b) Ga Ma(#) Ga Re(b) Sa
 
- Ni Re(b) Ga Ma(#) Ni Dha Dha Ma(#) Ga Re(b) Ga Ma(#) Ga Re(b) Sa
+ Ni Re(b) Ga Ma(#)  Ni Dha Dha Ma(#) Ga Re(b) Ga Ma(#) Ga Re(b) Sa
 
  Ni Re Ni Dha Ma Ga Sa
  
@@ -52,22 +52,22 @@
 
  Ni Re(b) Ga Ma(#) Ni Dha Dha Ma(#) Ga Re(b) Ga Ma(#) Ga Re(b) Sa
 
- Ni Re(b) Ga Ma(#) Ni Dha~
+ Ni Re(b) Ga Ma(#)  Ni Dha~
  
 ```
 
 * Antara
 
 ```
-Ma(#) Dha Ma(#) Ga Ma(#) Dha Sa Sa Ni Re(b) Ga Ma(#) Ga Re(b) Sa
+Ma(#) Dha Ma(#) Ga  Ma(#) Dha Sa Sa  Ni Re(b) Ga Ma(#) Ga Re(b) Sa
 
-Ma(#) Dha Ma(#) Ga Ma(#) Dha Sa Sa Ni Re(b) Ga Ma(#) Ga Re(b) Sa
-
-Re(b) Re(b) Ga Re(b) Dha Ma(#) Dha Ma(#) Ga Re(b) Ga Ma(#) Ga Re(b) Sa
+Ma(#) Dha Ma(#) Ga  Ma(#) Dha Sa Sa  Ni Re(b) Ga Ma(#) Ga Re(b) Sa
 
 Re(b) Re(b) Ga Re(b) Dha Ma(#) Dha Ma(#) Ga Re(b) Ga Ma(#) Ga Re(b) Sa
 
-Ni Re(b) Ga Ma(#) Ni Dha Dha Ma(#) Ga Ni Ga Ma(#) Ga Ni Sa
+Re(b) Re(b) Ga Re(b) Dha Ma(#) Dha Ma(#) Ga Re(b) Ga Ma(#) Ga Re(b) Sa
+
+Ni Re(b) Ga Ma(#)  Ni Dha Dha Ma(#) Ga Ni Ga Ma(#) Ga Ni Sa
 
 Ni Re(b) Ga Ma(#) Ni Dha~
 ```
@@ -81,27 +81,27 @@ sources:
 
 ---
 
-#### Aaroh, Avaroh aur Pakad Mapped On Guitar
+#### Aaroh, Avaroh aur Pakad Mapped On Instruments
 
 * Aaroh
 
 ```
  Ni Re(b) Ga Ma(#) Dha Ni Dha Sa
- e7 G6    B5 B7    e5  e7 e5  G5
+ e7 G6    B5 B7    e5  e7 e5  G5   => guitar
 ```
 
 * Avaroh
 
 ```
  Sa Ni Dha Ma(#) Ga Re(b) Sa
- G5 e7 e5  B7    B5 G6    G5
+ G5 e7 e5  B7    B5 G6    G5   => guitar
 ```
 
 * Pakad
 
 ```
  Dha Ma(#) Ga Re(b) Ga Ma(#) Re(b) Sa
- 
+ e5  B7    B5 G6    B5 B7    G6    G5   => guitar
 ```
 
 ---

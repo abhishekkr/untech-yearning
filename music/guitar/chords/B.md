@@ -43,3 +43,23 @@
 ```
 
 ---
+
+* Bdiminished (Bo)
+
+> for Natural Minor Scale in Key of Aminor
+
+```
+ E A D G B e
+ X=2=3=2=3=X
+ | | | | | |
+ ----------- 1
+ | i | m | |
+ ----------- 2
+ | | a | x |
+ ----------- 3
+ | | | | | |
+
+
+```
+
+---

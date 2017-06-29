@@ -4,7 +4,6 @@
 #### Artist: Ed Sheeran
 
 
-
 ```
 
 Chords:
@@ -16,7 +15,7 @@ C#m            F#m            A          B
 -|-|i|-|-|-    ||i|-|-|-    ||i|-|-    ||-|i|m|-|-
 -|-|i|-|m|-    ||-|m|-|-    ||-|m|-    ||-|i|-|a|-
 
-Strum: D D-U D-U D-U
+Strum: D D-U  D-U D-U
 
 
 C#m                     F#m                          A            B

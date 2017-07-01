@@ -1,6 +1,9 @@
 ## Song: Californication Solo
 ### Band: Red Hot Chilli Pepper
 
+
+* [justinguitars](https://www.youtube.com/watch?v=OZQlUT5iCqo)
+
 ```
 
 { 2.10 1.9 3.11-highBend-vibrato } twice

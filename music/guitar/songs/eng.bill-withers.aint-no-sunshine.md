@@ -10,6 +10,9 @@ to be noted
 
 ```
 
+---
+
+* chords [tutorial by Keith Urban](https://www.youtube.com/watch?v=utOHWP5vDWs)
 
 ---
 

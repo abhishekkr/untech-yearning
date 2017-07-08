@@ -3,6 +3,9 @@
 
 * [interesting plucking tutorial for it by Youtube Channel: The Beatles Vocal Harmony](https://www.youtube.com/watch?v=qD8f9w_NYJk)
 
+* [fingerstyle lesson by Gabe Delp](https://www.youtube.com/watch?v=q2TlK1_2PKE)
+
+---
 
 * [justinguitar](https://www.youtube.com/watch?v=mEn2SEwZKNE)
 

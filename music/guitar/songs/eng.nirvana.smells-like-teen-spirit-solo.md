@@ -36,4 +36,17 @@ half-tone-bend 4.8(4.,4.6)   {bad with bends then try 4.8/4.9../4.8}
 core-piece again
 
 ---
+
+* my mod
+
+```
+<instead of intro chord progression>
+A|--8---8-8-8(times5)----11---11-11-11(times5)--------},,,times4
+E|--8---8-8-8(times5)----11---11-11-11(times5)--------}'''
+
+<play the core-piece from before>
+
+```
+
+---
 ---

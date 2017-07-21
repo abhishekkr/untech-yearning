@@ -27,6 +27,18 @@
 > down with folded fingers nails, up with side thumb nail
 
 
+##### Rhumba Flamenco
+
+* Basic Strum
+
+> it's a 7 step strum
+> step.1 thumb roll down
+> step.2 thumb roll up
+> step.3 fingers roll down (count varies for accent)
+> step.4 thumb roll up
+> step.5 slap over sound hole (mute, or also tap hard)
+> step.6 fingers roll up
+> step.7 fingers roll down (count varies for accent)
 
 ---
 ---

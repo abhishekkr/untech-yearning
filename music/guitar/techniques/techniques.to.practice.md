@@ -73,31 +73,53 @@
 ---
 
 ##### Analyze Playing styles of
+> order is alphabetical as it'll be stupid to compare
 
+Albert King
 Angus Young
 B.B. King
 Buddy Guy
 Carlos Santana
+Chet Atkins
 Chuchk Berry
 David Gilmour
 Derek Trucks
 Duane Allman
 Eddie Van Halen
 Eric Clapton
+Frank Zappa
 Freddy King
+Gary Davis
+George Harrison
+Jack White
+James Hetfield
 Jimmy Hendrix
 Jimmy Page
 Joe Satriani
+John Frusciante
+John Lee Hooker
 John Petrucci
+Jon Gomm
+Keith Richards
 Kirk hammett
 Kurt Cobain
+Les Paul
 Mark Knopfler
 Milos Karadaglic
+Mudddy Waters
 Preston Reed
+Prince
+Randy Rhoads
 Ritchie Blackmore
 Robert Johnson
+Robert Trujillo
+Slash
+Skip James
 Steve Vai
 Stevie Ray Vaughan
+Tommy Emmanuel
+Tony Iommi
+Yngwie Malmsteen
 
 ---
 

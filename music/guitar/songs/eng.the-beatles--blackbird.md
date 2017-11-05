@@ -5,6 +5,8 @@
 
 * [fingerstyle lesson by Gabe Delp](https://www.youtube.com/watch?v=q2TlK1_2PKE)
 
+* [another fingerstyle at Songsterr](https://www.songsterr.com/a/wsa/the-beatles-blackbird-tab-s57t0)
+
 ---
 
 * [justinguitar](https://www.youtube.com/watch?v=mEn2SEwZKNE)

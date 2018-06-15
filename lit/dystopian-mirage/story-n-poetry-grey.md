@@ -12,7 +12,7 @@ Took hundreds years to turn, into dark times.
 Some believe it's ash, some say just our eyes.
 ```
 
-```
+
 [WIP]
 All I can see now are different variations of grey color.
 It's like there is just one note left in the music of sight, with different flatter or shrilling pitches.
@@ -20,5 +20,7 @@ The roads are grey, buildings are grey, cloths are grey and so is my skin. Every
 I remember the red blood, green moss, blue veins, brown clouds, maroon flowers and magenta ocean. I hear they were a lot prettier, but still we had some of it when I was a kid.
 They say it all accelerated in recent years.
 Our view of the world changed, mainly our ability to comprehend it's variety.
+Those with faith think it's just ashes from new mining factories that has covered everything to this extent.
+But our blood is grey, our flesh is grey. Researchers conclude our eyes have been impacted by this ever growing pollution. We have lost most of our cognitive coapability to differentiate colors. All we can idnetify is colors as different quotient of grey.
 
-```
+---

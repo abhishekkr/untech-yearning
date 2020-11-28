@@ -25,4 +25,26 @@ uses: 1.15 2.17 2.15 3.17 3.14 4.16(extra)
 4.16
 
 ---
+
+### [Acoustic Life - Youtube Channel](https://www.youtube.com/watch?v=okU5U4or928) Play Blues on Guitar in any Key with this Riff
+
+```
+(string).(X), (string-2).(X+2), (string-2).(X), (string-1).(X+2)
+```
+
+> 12bar Blues, movable pattern here in Key of G
+
+```
+chunkA | 6.3 4.5 4.3 5.5   | over 1chord 4times
+chunkB | 5.3 3.5 3.3 4.5   | over 4chord 2times
+
+chunkA | 6.3 4.5 4.3 5.5   | over 1chord 2times
+chunkC | 5.5 3.7 3.5 4.7   | over 5chord 1time
+
+chunkB | 5.3 3.5 3.3 4.5   | over 4chord 1times
+chunkA | 6.3 4.5 4.3 5.5   | over 1chord 2times
+```
+
+> can start on a different Key, same pattern
+
 ---
